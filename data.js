@@ -1,13 +1,13 @@
 // deliveryFeesData.js
 
-export const FREE_DELIVERY_OPTIONS = [
+const FREE_DELIVERY_OPTIONS = [
   "قطعتين + توصيل مجاني",
   "ثلاث قطع + توصيل مجاني + خصم 200 دج",
   "قطعة واحدة + توصيل مجاني",
   "قطعتين + توصيل مجاني + خصم 100 دج"
 ];
 
-export const wilayaFees = {
+const wilayaFees = {
   "01 ~ أدرار": { home: 1100, office: 700 },
   "02 ~ الشلف": { home: 1100, office: 700 },
   "03 ~ الأغواط": { home: 1100, office: 700 },
