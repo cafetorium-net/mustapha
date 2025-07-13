@@ -53,3 +53,5 @@ const wilayaFees = {
   "43 ~ ميلة": { home: 1100, office: 700 },
   "44 ~ عين الدفلى": { home: 1100, office: 700 }
 };
+
+console.log({wilayaFees})
